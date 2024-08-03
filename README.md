@@ -8,10 +8,10 @@ Here’s a simple README file that provides an overview of your React project, i
 
 This React project includes a dashboard with various components such as a sidebar for navigation, a line chart for sales vs. orders, and a pie chart for sales portions. The project is styled using Tailwind CSS and utilizes Chart.js for data visualization.
 
-![alt text](assets/image-1.png)
-![alt text](assets/image-2.png)
-![alt text](assets/image-3.png)
-![alt text](assets/image-4.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
 
 ## Features
 
