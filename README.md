@@ -31,13 +31,13 @@ This React project includes a dashboard with various components such as a sideba
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/developerashish02/adapt-nxt-assignment.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd your-repo-name
+   cd adapt-nxt-assignment
    ```
 
 3. **Install Dependencies**
@@ -49,7 +49,7 @@ This React project includes a dashboard with various components such as a sideba
 4. **Start the Development Server**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    Open your browser and go to `http://localhost:3000` to view the application.
