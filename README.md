@@ -8,7 +8,6 @@ Here’s a simple README file that provides an overview of your React project, i
 
 This React project includes a dashboard with various components such as a sidebar for navigation, a line chart for sales vs. orders, and a pie chart for sales portions. The project is styled using Tailwind CSS and utilizes Chart.js for data visualization.
 
-
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
@@ -78,4 +77,5 @@ The chart data and options are defined in `src/constants.js` to keep the compone
 This project is licensed under the MIT License.
 
 ---
+
 # adapt-nxt-assignment
